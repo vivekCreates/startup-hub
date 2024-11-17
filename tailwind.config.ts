@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily:{
+
+     monolisa:["MonoLisa Nerd Font Mono",'mono']
+      }
     },
   },
   plugins: [],
